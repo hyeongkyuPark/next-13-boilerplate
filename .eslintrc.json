@@ -3,7 +3,11 @@
   "parserOptions": {
     "project": "./tsconfig.json"
   },
-  "plugins": ["prettier", "@typescript-eslint", "import"],
+  "plugins": [
+    "prettier",
+    "@typescript-eslint",
+    "import"
+  ],
   "extends": [
     "airbnb",
     "airbnb/hooks",
@@ -11,7 +15,8 @@
     "plugin:@typescript-eslint/recommended",
     "plugin:@typescript-eslint/recommended-requiring-type-checking",
     "plugin:@next/next/recommended",
-    "prettier/prettier"
+    "prettier/prettier",
+    "plugin:storybook/recommended"
   ],
   "rules": {
     "react/react-in-jsx-scope": "off",
