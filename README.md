@@ -4,7 +4,8 @@
     This document is for 
     <strong>
         Next Version 13 of BoilerplateCode.
-    </strong> 
+    </strong>
+    <br />
     Below is a list of frameworks and libraries used.
 </div>
 
