@@ -1,4 +1,4 @@
-# Next 13 Boilerplate
+<h1 align=center>Next 13 Boilerplate</h1>
 
 <div align=center>
     This document is for 
