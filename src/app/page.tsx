@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import TestSvg from '../assets/svgs/icon-wran.svg';
 
 export default function Home() {
   return (
@@ -16,14 +17,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             By
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className="dark:invert"
-              width={100}
-              height={24}
-              priority
-            />
+            <TestSvg />
           </a>
         </div>
       </div>
